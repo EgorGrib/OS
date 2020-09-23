@@ -1,0 +1,20 @@
+You can choose one of these commands:
+
+1) calc [operation] [value1] [value2]
+operations: sum, sub, mul, div
+
+2) search [directory] [regular expression]
+
+3) reverse [input file] [output file]
+
+4) strlen [string]
+
+5) log
+
+6) exit [code]
+return codes: 
+	1. Wrong number of arguments
+	2. Invalid argument value
+	3. Division by zero attemp
+	4. Directory or file was not found
+	5. No access
