@@ -8,15 +8,15 @@ then
 	echo "$output"
 	exit 0
 else case $return in 
-	1) echo "Error: Wrong number of arguments" >&2
+	1) echo "Error: Wrong number of arguments">&2
 	;;
-	2) echo "Error: Invalid argument value" >&2
+	2) echo "Error: Invalid argument value">&2
 	;;
-	3) echo "Error: Division by zero attemp" >&2
+	3) echo "Error: Division by zero attemp">&2
 	;;
-	4) echo "Error: Directory or file was not found" >&2
+	4) echo "Error: Directory or file was not found">&2
 	;;
-	5) echo "Error: No access" >&2
+	5) echo "Error: No access">&2
 	;;
 	esac
 	exit $return
@@ -114,7 +114,7 @@ interactive)
 	exit $?
 	;;
 *)
-	echo "Error: Unknown command"
+	echo "Error: Unknown command">&2
 	echo $(cat /home/user/lab1/help.txt)
 	exit -1
 	;;
