@@ -119,21 +119,3 @@ interactive)
 	exit -1
 	;;
 esac
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
