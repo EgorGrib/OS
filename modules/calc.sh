@@ -7,15 +7,18 @@ then exit 2
 fi
 case $1 in
 	sum)
-	echo $(($2+$3))
+	let result=$2+$3 	
+	echo $result
 	exit 0
 	;;
 	sub)
-	echo $(($2-$3))
+	let result=$2-$3
+	echo $result
 	exit 0
 	;;
 	mul)
-	echo $(($2*$3))
+	let result=$2*$3
+	echo $result
 	exit 0
 	;;
 	div)
