@@ -1,7 +1,8 @@
 #!/bin/bash
 
+path="$(dirname -- "$(realpath "$0")")"
 function module() {
-output="$(/home/user/lab1/modules/$1.sh "$2" $3 $4 $5 $6)" 2> /dev/null
+output="$($path/modules/$1.sh "$2" $3 $4 $5 $6)" 2> /dev/null
 return=$?
 if [[ $return -eq 0 ]]
 then 
@@ -53,7 +54,7 @@ do
 		continue
 		;;
 	help)
-		echo $(cat /home/user/lab1/help.txt)
+		echo $(cat $path/help.txt)
 		;;
 	"exit")
 		if ! [[ -z "$arg1" ]]
@@ -67,7 +68,7 @@ done
 
 if [[ $# -eq 0 ]]
 then 
-	echo $(cat /home/user/lab1/help.txt)
+	echo $(cat $path/help.txt)
 	exit -2
 fi
 
@@ -83,7 +84,7 @@ calc|search|reverse|strlen|log)
 	[[ $# -eq 1 ]] && exit 0 || exit $2 2> /dev/null
 	;;
 help)
-	echo $(cat /home/user/lab1/help.txt)
+	echo $(cat $path/help.txt)
 	exit 0
 	;;
 interactive)
@@ -92,7 +93,7 @@ interactive)
 	;;
 *)
 	echo "Error: Unknown command">&2
-	echo $(cat /home/user/lab1/help.txt)
+	echo $(cat $path/help.txt)
 	exit -1
 	;;
 esac
