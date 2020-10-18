@@ -1,0 +1,598 @@
+
+PID=1 : PPID=0 : ART=.3595
+PID=2 : PPID=0 : ART=.0086
+Average_Sleeping_Children_of_PatioentID=0 is .1840
+PID=1014 : PPID=1 : ART=.2194
+Average_Sleeping_Children_of_PatioentID=1014 is .2194
+PID=1016 : PPID=1 : ART=.0668
+Average_Sleeping_Children_of_PatioentID=1016 is .0668
+PID=1942 : PPID=1 : ART=1.2114
+Average_Sleeping_Children_of_PatioentID=1942 is 1.2114
+PID=1958 : PPID=1 : ART=2.1255
+Average_Sleeping_Children_of_PatioentID=1958 is 2.1255
+PID=657 : PPID=1 : ART=.4301
+Average_Sleeping_Children_of_PatioentID=657 is .4301
+PID=685 : PPID=1 : ART=.6720
+Average_Sleeping_Children_of_PatioentID=685 is .6720
+PID=803 : PPID=1 : ART=.0376
+Average_Sleeping_Children_of_PatioentID=803 is .0376
+PID=807 : PPID=1 : ART=.0241
+Average_Sleeping_Children_of_PatioentID=807 is .0241
+PID=837 : PPID=1 : ART=.0670
+Average_Sleeping_Children_of_PatioentID=837 is .0670
+PID=838 : PPID=1 : ART=.0403
+Average_Sleeping_Children_of_PatioentID=838 is .0403
+PID=839 : PPID=1 : ART=.0175
+Average_Sleeping_Children_of_PatioentID=839 is .0175
+PID=841 : PPID=1 : ART=.5106
+Average_Sleeping_Children_of_PatioentID=841 is .5106
+PID=842 : PPID=1 : ART=.0665
+Average_Sleeping_Children_of_PatioentID=842 is .0665
+PID=845 : PPID=1 : ART=.4806
+Average_Sleeping_Children_of_PatioentID=845 is .4806
+PID=848 : PPID=1 : ART=.1192
+Average_Sleeping_Children_of_PatioentID=848 is .1192
+PID=850 : PPID=1 : ART=.1590
+Average_Sleeping_Children_of_PatioentID=850 is .1590
+PID=851 : PPID=1 : ART=.4900
+Average_Sleeping_Children_of_PatioentID=851 is .4900
+PID=858 : PPID=1 : ART=.0319
+Average_Sleeping_Children_of_PatioentID=858 is .0319
+PID=876 : PPID=1 : ART=.7679
+Average_Sleeping_Children_of_PatioentID=876 is .7679
+PID=883 : PPID=1 : ART=.6112
+Average_Sleeping_Children_of_PatioentID=883 is .6112
+PID=888 : PPID=1 : ART=.0846
+Average_Sleeping_Children_of_PatioentID=888 is .0846
+PID=915 : PPID=1 : ART=.1491
+Average_Sleeping_Children_of_PatioentID=915 is .1491
+PID=916 : PPID=1 : ART=1.2199
+Average_Sleeping_Children_of_PatioentID=916 is 1.2199
+PID=995 : PPID=1 : ART=.9907
+Average_Sleeping_Children_of_PatioentID=995 is .9907
+PID=10 : PPID=2 : ART=.0004
+Average_Sleeping_Children_of_PatioentID=10 is .0004
+PID=11 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=11 is 0
+PID=12 : PPID=2 : ART=.0030
+Average_Sleeping_Children_of_PatioentID=12 is .0030
+PID=13 : PPID=2 : ART=.0036
+Average_Sleeping_Children_of_PatioentID=13 is .0036
+PID=142 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=142 is 0
+PID=143 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=143 is 0
+PID=144 : PPID=2 : ART=.0005
+Average_Sleeping_Children_of_PatioentID=144 is .0005
+PID=145 : PPID=2 : ART=.0002
+Average_Sleeping_Children_of_PatioentID=145 is .0002
+PID=146 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=146 is 0
+PID=147 : PPID=2 : ART=.0010
+Average_Sleeping_Children_of_PatioentID=147 is .0010
+PID=15 : PPID=2 : ART=.0052
+Average_Sleeping_Children_of_PatioentID=15 is .0052
+PID=16 : PPID=2 : ART=.0008
+Average_Sleeping_Children_of_PatioentID=16 is .0008
+PID=17 : PPID=2 : ART=.0121
+Average_Sleeping_Children_of_PatioentID=17 is .0121
+PID=18 : PPID=2 : ART=.0112
+Average_Sleeping_Children_of_PatioentID=18 is .0112
+PID=1881 : PPID=2 : ART=.0229
+Average_Sleeping_Children_of_PatioentID=1881 is .0229
+PID=1899 : PPID=2 : ART=.0027
+Average_Sleeping_Children_of_PatioentID=1899 is .0027
+PID=19 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=19 is 0
+PID=20 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=20 is 0
+PID=21 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=21 is 0
+PID=22 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=22 is 0
+PID=23 : PPID=2 : ART=.0523
+Average_Sleeping_Children_of_PatioentID=23 is .0523
+PID=24 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=24 is 0
+PID=25 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=25 is 0
+PID=26 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=26 is 0
+PID=27 : PPID=2 : ART=.0013
+Average_Sleeping_Children_of_PatioentID=27 is .0013
+PID=28 : PPID=2 : ART=.0008
+Average_Sleeping_Children_of_PatioentID=28 is .0008
+PID=29 : PPID=2 : ART=.0002
+Average_Sleeping_Children_of_PatioentID=29 is .0002
+PID=30 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=30 is 0
+PID=3 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=3 is 0
+PID=33259 : PPID=2 : ART=.0331
+Average_Sleeping_Children_of_PatioentID=33259 is .0331
+PID=33264 : PPID=2 : ART=.0283
+Average_Sleeping_Children_of_PatioentID=33264 is .0283
+PID=35 : PPID=2 : ART=.0056
+Average_Sleeping_Children_of_PatioentID=35 is .0056
+PID=4 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=4 is 0
+PID=446 : PPID=2 : ART=.0015
+Average_Sleeping_Children_of_PatioentID=446 is .0015
+PID=447 : PPID=2 : ART=3.8246
+Average_Sleeping_Children_of_PatioentID=447 is 3.8246
+PID=448 : PPID=2 : ART=.0008
+Average_Sleeping_Children_of_PatioentID=448 is .0008
+PID=449 : PPID=2 : ART=.0561
+Average_Sleeping_Children_of_PatioentID=449 is .0561
+PID=450 : PPID=2 : ART=.0009
+Average_Sleeping_Children_of_PatioentID=450 is .0009
+PID=452 : PPID=2 : ART=.0600
+Average_Sleeping_Children_of_PatioentID=452 is .0600
+PID=453 : PPID=2 : ART=.0014
+Average_Sleeping_Children_of_PatioentID=453 is .0014
+PID=459 : PPID=2 : ART=.0070
+Average_Sleeping_Children_of_PatioentID=459 is .0070
+PID=49 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=49 is 0
+PID=517 : PPID=2 : ART=.0010
+Average_Sleeping_Children_of_PatioentID=517 is .0010
+PID=526 : PPID=2 : ART=.0016
+Average_Sleeping_Children_of_PatioentID=526 is .0016
+PID=564 : PPID=2 : ART=.0237
+Average_Sleeping_Children_of_PatioentID=564 is .0237
+PID=565 : PPID=2 : ART=.0010
+Average_Sleeping_Children_of_PatioentID=565 is .0010
+PID=6 : PPID=2 : ART=.0033
+Average_Sleeping_Children_of_PatioentID=6 is .0033
+PID=737 : PPID=2 : ART=.0013
+Average_Sleeping_Children_of_PatioentID=737 is .0013
+PID=743 : PPID=2 : ART=.0002
+Average_Sleeping_Children_of_PatioentID=743 is .0002
+PID=744 : PPID=2 : ART=.0020
+Average_Sleeping_Children_of_PatioentID=744 is .0020
+PID=763 : PPID=2 : ART=.0182
+Average_Sleeping_Children_of_PatioentID=763 is .0182
+PID=764 : PPID=2 : ART=.0015
+Average_Sleeping_Children_of_PatioentID=764 is .0015
+PID=775 : PPID=2 : ART=.0018
+Average_Sleeping_Children_of_PatioentID=775 is .0018
+PID=776 : PPID=2 : ART=.0018
+Average_Sleeping_Children_of_PatioentID=776 is .0018
+PID=777 : PPID=2 : ART=.0015
+Average_Sleeping_Children_of_PatioentID=777 is .0015
+PID=778 : PPID=2 : ART=.0012
+Average_Sleeping_Children_of_PatioentID=778 is .0012
+PID=779 : PPID=2 : ART=.0006
+Average_Sleeping_Children_of_PatioentID=779 is .0006
+PID=780 : PPID=2 : ART=.0006
+Average_Sleeping_Children_of_PatioentID=780 is .0006
+PID=781 : PPID=2 : ART=.0006
+Average_Sleeping_Children_of_PatioentID=781 is .0006
+PID=782 : PPID=2 : ART=.0007
+Average_Sleeping_Children_of_PatioentID=782 is .0007
+PID=783 : PPID=2 : ART=.0020
+Average_Sleeping_Children_of_PatioentID=783 is .0020
+PID=816 : PPID=2 : ART=.0010
+Average_Sleeping_Children_of_PatioentID=816 is .0010
+PID=818 : PPID=2 : ART=.0008
+Average_Sleeping_Children_of_PatioentID=818 is .0008
+PID=8 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=8 is 0
+PID=820 : PPID=2 : ART=.0016
+Average_Sleeping_Children_of_PatioentID=820 is .0016
+PID=9 : PPID=2 : ART=.0050
+Average_Sleeping_Children_of_PatioentID=9 is .0050
+PID=864 : PPID=838 : ART=.0566
+Average_Sleeping_Children_of_PatioentID=864 is .0566
+PID=875 : PPID=838 : ART=.1049
+Average_Sleeping_Children_of_PatioentID=875 is .1049
+PID=860 : PPID=842 : ART=.0748
+Average_Sleeping_Children_of_PatioentID=860 is .0748
+PID=1970 : PPID=1942 : ART=.1064
+Average_Sleeping_Children_of_PatioentID=1970 is .1064
+PID=1964 : PPID=1958 : ART=.0602
+Average_Sleeping_Children_of_PatioentID=1964 is .0602
+PID=34210 : PPID=1970 : ART=1.0381
+PID=34211 : PPID=34210 : ART=.0492
+PID=34212 : PPID=34210 : ART=.0105
+PID=34213 : PPID=34210 : ART=1.1392
+Average_Sleeping_Children_of_PatioentID=34210 is .5592
+PID= : PPID= : ART=
+PID=1 : PPID=0 : ART=.3595
+PID=2 : PPID=0 : ART=.0086
+Average_Sleeping_Children_of_PatioentID=0 is .1840
+PID=1014 : PPID=1 : ART=.2194
+Average_Sleeping_Children_of_PatioentID=1014 is .2194
+PID=1016 : PPID=1 : ART=.0668
+Average_Sleeping_Children_of_PatioentID=1016 is .0668
+PID=1942 : PPID=1 : ART=1.2114
+Average_Sleeping_Children_of_PatioentID=1942 is 1.2114
+PID=1958 : PPID=1 : ART=2.1255
+Average_Sleeping_Children_of_PatioentID=1958 is 2.1255
+PID=657 : PPID=1 : ART=.4301
+Average_Sleeping_Children_of_PatioentID=657 is .4301
+PID=685 : PPID=1 : ART=.6720
+Average_Sleeping_Children_of_PatioentID=685 is .6720
+PID=803 : PPID=1 : ART=.0376
+Average_Sleeping_Children_of_PatioentID=803 is .0376
+PID=807 : PPID=1 : ART=.0241
+Average_Sleeping_Children_of_PatioentID=807 is .0241
+PID=837 : PPID=1 : ART=.0670
+Average_Sleeping_Children_of_PatioentID=837 is .0670
+PID=838 : PPID=1 : ART=.0403
+Average_Sleeping_Children_of_PatioentID=838 is .0403
+PID=839 : PPID=1 : ART=.0175
+Average_Sleeping_Children_of_PatioentID=839 is .0175
+PID=841 : PPID=1 : ART=.5106
+Average_Sleeping_Children_of_PatioentID=841 is .5106
+PID=842 : PPID=1 : ART=.0665
+Average_Sleeping_Children_of_PatioentID=842 is .0665
+PID=845 : PPID=1 : ART=.4806
+Average_Sleeping_Children_of_PatioentID=845 is .4806
+PID=848 : PPID=1 : ART=.1192
+Average_Sleeping_Children_of_PatioentID=848 is .1192
+PID=850 : PPID=1 : ART=.1590
+Average_Sleeping_Children_of_PatioentID=850 is .1590
+PID=851 : PPID=1 : ART=.4900
+Average_Sleeping_Children_of_PatioentID=851 is .4900
+PID=858 : PPID=1 : ART=.0319
+Average_Sleeping_Children_of_PatioentID=858 is .0319
+PID=876 : PPID=1 : ART=.7679
+Average_Sleeping_Children_of_PatioentID=876 is .7679
+PID=883 : PPID=1 : ART=.6112
+Average_Sleeping_Children_of_PatioentID=883 is .6112
+PID=888 : PPID=1 : ART=.0846
+Average_Sleeping_Children_of_PatioentID=888 is .0846
+PID=915 : PPID=1 : ART=.1491
+Average_Sleeping_Children_of_PatioentID=915 is .1491
+PID=916 : PPID=1 : ART=1.2199
+Average_Sleeping_Children_of_PatioentID=916 is 1.2199
+PID=995 : PPID=1 : ART=.9907
+Average_Sleeping_Children_of_PatioentID=995 is .9907
+PID=10 : PPID=2 : ART=.0004
+Average_Sleeping_Children_of_PatioentID=10 is .0004
+PID=11 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=11 is 0
+PID=12 : PPID=2 : ART=.0030
+Average_Sleeping_Children_of_PatioentID=12 is .0030
+PID=13 : PPID=2 : ART=.0036
+Average_Sleeping_Children_of_PatioentID=13 is .0036
+PID=142 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=142 is 0
+PID=143 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=143 is 0
+PID=144 : PPID=2 : ART=.0005
+Average_Sleeping_Children_of_PatioentID=144 is .0005
+PID=145 : PPID=2 : ART=.0002
+Average_Sleeping_Children_of_PatioentID=145 is .0002
+PID=146 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=146 is 0
+PID=147 : PPID=2 : ART=.0010
+Average_Sleeping_Children_of_PatioentID=147 is .0010
+PID=15 : PPID=2 : ART=.0052
+Average_Sleeping_Children_of_PatioentID=15 is .0052
+PID=16 : PPID=2 : ART=.0008
+Average_Sleeping_Children_of_PatioentID=16 is .0008
+PID=17 : PPID=2 : ART=.0121
+Average_Sleeping_Children_of_PatioentID=17 is .0121
+PID=18 : PPID=2 : ART=.0112
+Average_Sleeping_Children_of_PatioentID=18 is .0112
+PID=1881 : PPID=2 : ART=.0229
+Average_Sleeping_Children_of_PatioentID=1881 is .0229
+PID=1899 : PPID=2 : ART=.0027
+Average_Sleeping_Children_of_PatioentID=1899 is .0027
+PID=19 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=19 is 0
+PID=20 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=20 is 0
+PID=21 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=21 is 0
+PID=22 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=22 is 0
+PID=23 : PPID=2 : ART=.0523
+Average_Sleeping_Children_of_PatioentID=23 is .0523
+PID=24 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=24 is 0
+PID=25 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=25 is 0
+PID=26 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=26 is 0
+PID=27 : PPID=2 : ART=.0013
+Average_Sleeping_Children_of_PatioentID=27 is .0013
+PID=28 : PPID=2 : ART=.0008
+Average_Sleeping_Children_of_PatioentID=28 is .0008
+PID=29 : PPID=2 : ART=.0002
+Average_Sleeping_Children_of_PatioentID=29 is .0002
+PID=30 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=30 is 0
+PID=3 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=3 is 0
+PID=33259 : PPID=2 : ART=.0331
+Average_Sleeping_Children_of_PatioentID=33259 is .0331
+PID=33264 : PPID=2 : ART=.0283
+Average_Sleeping_Children_of_PatioentID=33264 is .0283
+PID=35 : PPID=2 : ART=.0056
+Average_Sleeping_Children_of_PatioentID=35 is .0056
+PID=4 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=4 is 0
+PID=446 : PPID=2 : ART=.0015
+Average_Sleeping_Children_of_PatioentID=446 is .0015
+PID=447 : PPID=2 : ART=3.8246
+Average_Sleeping_Children_of_PatioentID=447 is 3.8246
+PID=448 : PPID=2 : ART=.0008
+Average_Sleeping_Children_of_PatioentID=448 is .0008
+PID=449 : PPID=2 : ART=.0561
+Average_Sleeping_Children_of_PatioentID=449 is .0561
+PID=450 : PPID=2 : ART=.0009
+Average_Sleeping_Children_of_PatioentID=450 is .0009
+PID=452 : PPID=2 : ART=.0600
+Average_Sleeping_Children_of_PatioentID=452 is .0600
+PID=453 : PPID=2 : ART=.0014
+Average_Sleeping_Children_of_PatioentID=453 is .0014
+PID=459 : PPID=2 : ART=.0070
+Average_Sleeping_Children_of_PatioentID=459 is .0070
+PID=49 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=49 is 0
+PID=517 : PPID=2 : ART=.0010
+Average_Sleeping_Children_of_PatioentID=517 is .0010
+PID=526 : PPID=2 : ART=.0016
+Average_Sleeping_Children_of_PatioentID=526 is .0016
+PID=564 : PPID=2 : ART=.0237
+Average_Sleeping_Children_of_PatioentID=564 is .0237
+PID=565 : PPID=2 : ART=.0010
+Average_Sleeping_Children_of_PatioentID=565 is .0010
+PID=6 : PPID=2 : ART=.0033
+Average_Sleeping_Children_of_PatioentID=6 is .0033
+PID=737 : PPID=2 : ART=.0013
+Average_Sleeping_Children_of_PatioentID=737 is .0013
+PID=743 : PPID=2 : ART=.0002
+Average_Sleeping_Children_of_PatioentID=743 is .0002
+PID=744 : PPID=2 : ART=.0020
+Average_Sleeping_Children_of_PatioentID=744 is .0020
+PID=763 : PPID=2 : ART=.0182
+Average_Sleeping_Children_of_PatioentID=763 is .0182
+PID=764 : PPID=2 : ART=.0015
+Average_Sleeping_Children_of_PatioentID=764 is .0015
+PID=775 : PPID=2 : ART=.0018
+Average_Sleeping_Children_of_PatioentID=775 is .0018
+PID=776 : PPID=2 : ART=.0018
+Average_Sleeping_Children_of_PatioentID=776 is .0018
+PID=777 : PPID=2 : ART=.0015
+Average_Sleeping_Children_of_PatioentID=777 is .0015
+PID=778 : PPID=2 : ART=.0012
+Average_Sleeping_Children_of_PatioentID=778 is .0012
+PID=779 : PPID=2 : ART=.0006
+Average_Sleeping_Children_of_PatioentID=779 is .0006
+PID=780 : PPID=2 : ART=.0006
+Average_Sleeping_Children_of_PatioentID=780 is .0006
+PID=781 : PPID=2 : ART=.0006
+Average_Sleeping_Children_of_PatioentID=781 is .0006
+PID=782 : PPID=2 : ART=.0007
+Average_Sleeping_Children_of_PatioentID=782 is .0007
+PID=783 : PPID=2 : ART=.0020
+Average_Sleeping_Children_of_PatioentID=783 is .0020
+PID=816 : PPID=2 : ART=.0010
+Average_Sleeping_Children_of_PatioentID=816 is .0010
+PID=818 : PPID=2 : ART=.0008
+Average_Sleeping_Children_of_PatioentID=818 is .0008
+PID=8 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=8 is 0
+PID=820 : PPID=2 : ART=.0016
+Average_Sleeping_Children_of_PatioentID=820 is .0016
+PID=9 : PPID=2 : ART=.0050
+Average_Sleeping_Children_of_PatioentID=9 is .0050
+PID=864 : PPID=838 : ART=.0566
+Average_Sleeping_Children_of_PatioentID=864 is .0566
+PID=875 : PPID=838 : ART=.1049
+Average_Sleeping_Children_of_PatioentID=875 is .1049
+PID=860 : PPID=842 : ART=.0748
+Average_Sleeping_Children_of_PatioentID=860 is .0748
+PID=1970 : PPID=1942 : ART=.1064
+Average_Sleeping_Children_of_PatioentID=1970 is .1064
+PID=1964 : PPID=1958 : ART=.0602
+Average_Sleeping_Children_of_PatioentID=1964 is .0602
+PID=34210 : PPID=1970 : ART=1.0381
+PID=34211 : PPID=34210 : ART=.0492
+PID=34212 : PPID=34210 : ART=.0105
+PID=34213 : PPID=34210 : ART=1.1392
+Average_Sleeping_Children_of_PatioentID=34210 is .5592
+PID= : PPID= : ART=
+PID=1 : PPID=0 : ART=.3595
+PID=2 : PPID=0 : ART=.0086
+Average_Sleeping_Children_of_PatioentID=0 is .1840
+PID=1014 : PPID=1 : ART=.2194
+Average_Sleeping_Children_of_PatioentID=1014 is .2194
+PID=1016 : PPID=1 : ART=.0668
+Average_Sleeping_Children_of_PatioentID=1016 is .0668
+PID=1942 : PPID=1 : ART=1.2114
+Average_Sleeping_Children_of_PatioentID=1942 is 1.2114
+PID=1958 : PPID=1 : ART=2.1255
+Average_Sleeping_Children_of_PatioentID=1958 is 2.1255
+PID=657 : PPID=1 : ART=.4301
+Average_Sleeping_Children_of_PatioentID=657 is .4301
+PID=685 : PPID=1 : ART=.6720
+Average_Sleeping_Children_of_PatioentID=685 is .6720
+PID=803 : PPID=1 : ART=.0376
+Average_Sleeping_Children_of_PatioentID=803 is .0376
+PID=807 : PPID=1 : ART=.0241
+Average_Sleeping_Children_of_PatioentID=807 is .0241
+PID=837 : PPID=1 : ART=.0670
+Average_Sleeping_Children_of_PatioentID=837 is .0670
+PID=838 : PPID=1 : ART=.0403
+Average_Sleeping_Children_of_PatioentID=838 is .0403
+PID=839 : PPID=1 : ART=.0175
+Average_Sleeping_Children_of_PatioentID=839 is .0175
+PID=841 : PPID=1 : ART=.5106
+Average_Sleeping_Children_of_PatioentID=841 is .5106
+PID=842 : PPID=1 : ART=.0665
+Average_Sleeping_Children_of_PatioentID=842 is .0665
+PID=845 : PPID=1 : ART=.4806
+Average_Sleeping_Children_of_PatioentID=845 is .4806
+PID=848 : PPID=1 : ART=.1192
+Average_Sleeping_Children_of_PatioentID=848 is .1192
+PID=850 : PPID=1 : ART=.1590
+Average_Sleeping_Children_of_PatioentID=850 is .1590
+PID=851 : PPID=1 : ART=.4900
+Average_Sleeping_Children_of_PatioentID=851 is .4900
+PID=858 : PPID=1 : ART=.0319
+Average_Sleeping_Children_of_PatioentID=858 is .0319
+PID=876 : PPID=1 : ART=.7679
+Average_Sleeping_Children_of_PatioentID=876 is .7679
+PID=883 : PPID=1 : ART=.6112
+Average_Sleeping_Children_of_PatioentID=883 is .6112
+PID=888 : PPID=1 : ART=.0846
+Average_Sleeping_Children_of_PatioentID=888 is .0846
+PID=915 : PPID=1 : ART=.1491
+Average_Sleeping_Children_of_PatioentID=915 is .1491
+PID=916 : PPID=1 : ART=1.2199
+Average_Sleeping_Children_of_PatioentID=916 is 1.2199
+PID=995 : PPID=1 : ART=.9907
+Average_Sleeping_Children_of_PatioentID=995 is .9907
+PID=10 : PPID=2 : ART=.0004
+Average_Sleeping_Children_of_PatioentID=10 is .0004
+PID=11 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=11 is 0
+PID=12 : PPID=2 : ART=.0030
+Average_Sleeping_Children_of_PatioentID=12 is .0030
+PID=13 : PPID=2 : ART=.0036
+Average_Sleeping_Children_of_PatioentID=13 is .0036
+PID=142 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=142 is 0
+PID=143 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=143 is 0
+PID=144 : PPID=2 : ART=.0005
+Average_Sleeping_Children_of_PatioentID=144 is .0005
+PID=145 : PPID=2 : ART=.0002
+Average_Sleeping_Children_of_PatioentID=145 is .0002
+PID=146 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=146 is 0
+PID=147 : PPID=2 : ART=.0010
+Average_Sleeping_Children_of_PatioentID=147 is .0010
+PID=15 : PPID=2 : ART=.0052
+Average_Sleeping_Children_of_PatioentID=15 is .0052
+PID=16 : PPID=2 : ART=.0008
+Average_Sleeping_Children_of_PatioentID=16 is .0008
+PID=17 : PPID=2 : ART=.0121
+Average_Sleeping_Children_of_PatioentID=17 is .0121
+PID=18 : PPID=2 : ART=.0112
+Average_Sleeping_Children_of_PatioentID=18 is .0112
+PID=1881 : PPID=2 : ART=.0229
+Average_Sleeping_Children_of_PatioentID=1881 is .0229
+PID=1899 : PPID=2 : ART=.0027
+Average_Sleeping_Children_of_PatioentID=1899 is .0027
+PID=19 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=19 is 0
+PID=20 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=20 is 0
+PID=21 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=21 is 0
+PID=22 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=22 is 0
+PID=23 : PPID=2 : ART=.0523
+Average_Sleeping_Children_of_PatioentID=23 is .0523
+PID=24 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=24 is 0
+PID=25 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=25 is 0
+PID=26 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=26 is 0
+PID=27 : PPID=2 : ART=.0013
+Average_Sleeping_Children_of_PatioentID=27 is .0013
+PID=28 : PPID=2 : ART=.0008
+Average_Sleeping_Children_of_PatioentID=28 is .0008
+PID=29 : PPID=2 : ART=.0002
+Average_Sleeping_Children_of_PatioentID=29 is .0002
+PID=30 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=30 is 0
+PID=3 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=3 is 0
+PID=33259 : PPID=2 : ART=.0331
+Average_Sleeping_Children_of_PatioentID=33259 is .0331
+PID=33264 : PPID=2 : ART=.0283
+Average_Sleeping_Children_of_PatioentID=33264 is .0283
+PID=35 : PPID=2 : ART=.0056
+Average_Sleeping_Children_of_PatioentID=35 is .0056
+PID=4 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=4 is 0
+PID=446 : PPID=2 : ART=.0015
+Average_Sleeping_Children_of_PatioentID=446 is .0015
+PID=447 : PPID=2 : ART=3.8246
+Average_Sleeping_Children_of_PatioentID=447 is 3.8246
+PID=448 : PPID=2 : ART=.0008
+Average_Sleeping_Children_of_PatioentID=448 is .0008
+PID=449 : PPID=2 : ART=.0561
+Average_Sleeping_Children_of_PatioentID=449 is .0561
+PID=450 : PPID=2 : ART=.0009
+Average_Sleeping_Children_of_PatioentID=450 is .0009
+PID=452 : PPID=2 : ART=.0600
+Average_Sleeping_Children_of_PatioentID=452 is .0600
+PID=453 : PPID=2 : ART=.0014
+Average_Sleeping_Children_of_PatioentID=453 is .0014
+PID=459 : PPID=2 : ART=.0070
+Average_Sleeping_Children_of_PatioentID=459 is .0070
+PID=49 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=49 is 0
+PID=517 : PPID=2 : ART=.0010
+Average_Sleeping_Children_of_PatioentID=517 is .0010
+PID=526 : PPID=2 : ART=.0016
+Average_Sleeping_Children_of_PatioentID=526 is .0016
+PID=564 : PPID=2 : ART=.0237
+Average_Sleeping_Children_of_PatioentID=564 is .0237
+PID=565 : PPID=2 : ART=.0010
+Average_Sleeping_Children_of_PatioentID=565 is .0010
+PID=6 : PPID=2 : ART=.0033
+Average_Sleeping_Children_of_PatioentID=6 is .0033
+PID=737 : PPID=2 : ART=.0013
+Average_Sleeping_Children_of_PatioentID=737 is .0013
+PID=743 : PPID=2 : ART=.0002
+Average_Sleeping_Children_of_PatioentID=743 is .0002
+PID=744 : PPID=2 : ART=.0020
+Average_Sleeping_Children_of_PatioentID=744 is .0020
+PID=763 : PPID=2 : ART=.0182
+Average_Sleeping_Children_of_PatioentID=763 is .0182
+PID=764 : PPID=2 : ART=.0015
+Average_Sleeping_Children_of_PatioentID=764 is .0015
+PID=775 : PPID=2 : ART=.0018
+Average_Sleeping_Children_of_PatioentID=775 is .0018
+PID=776 : PPID=2 : ART=.0018
+Average_Sleeping_Children_of_PatioentID=776 is .0018
+PID=777 : PPID=2 : ART=.0015
+Average_Sleeping_Children_of_PatioentID=777 is .0015
+PID=778 : PPID=2 : ART=.0012
+Average_Sleeping_Children_of_PatioentID=778 is .0012
+PID=779 : PPID=2 : ART=.0006
+Average_Sleeping_Children_of_PatioentID=779 is .0006
+PID=780 : PPID=2 : ART=.0006
+Average_Sleeping_Children_of_PatioentID=780 is .0006
+PID=781 : PPID=2 : ART=.0006
+Average_Sleeping_Children_of_PatioentID=781 is .0006
+PID=782 : PPID=2 : ART=.0007
+Average_Sleeping_Children_of_PatioentID=782 is .0007
+PID=783 : PPID=2 : ART=.0020
+Average_Sleeping_Children_of_PatioentID=783 is .0020
+PID=816 : PPID=2 : ART=.0010
+Average_Sleeping_Children_of_PatioentID=816 is .0010
+PID=818 : PPID=2 : ART=.0008
+Average_Sleeping_Children_of_PatioentID=818 is .0008
+PID=8 : PPID=2 : ART=0
+Average_Sleeping_Children_of_PatioentID=8 is 0
+PID=820 : PPID=2 : ART=.0016
+Average_Sleeping_Children_of_PatioentID=820 is .0016
+PID=9 : PPID=2 : ART=.0050
+Average_Sleeping_Children_of_PatioentID=9 is .0050
+PID=864 : PPID=838 : ART=.0566
+Average_Sleeping_Children_of_PatioentID=864 is .0566
+PID=875 : PPID=838 : ART=.1049
+Average_Sleeping_Children_of_PatioentID=875 is .1049
+PID=860 : PPID=842 : ART=.0748
+Average_Sleeping_Children_of_PatioentID=860 is .0748
+PID=1970 : PPID=1942 : ART=.1064
+Average_Sleeping_Children_of_PatioentID=1970 is .1064
+PID=1964 : PPID=1958 : ART=.0602
+Average_Sleeping_Children_of_PatioentID=1964 is .0602
+PID=34210 : PPID=1970 : ART=1.0381
+PID=34211 : PPID=34210 : ART=.0492
+PID=34212 : PPID=34210 : ART=.0105
+PID=34213 : PPID=34210 : ART=1.1392
+Average_Sleeping_Children_of_PatioentID=34210 is .5592
+PID= : PPID= : ART=
