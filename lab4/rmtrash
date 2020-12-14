@@ -1,0 +1,32 @@
+#!/bin/bash
+
+trash_path=~/.trash
+trashlog_path=~/.trash.log
+filename=$1
+
+if [[ $# != 1 ]] 
+then
+	echo "The number of arguments should be 1."
+	exit 1
+fi
+
+if [[ ! -d $trash_path ]]
+then
+	mkdir $trash_path
+fi
+
+if [[ ! -f $trashlog_path ]]
+then
+	touch $trashlog_path
+fi
+
+count=0
+trash_name=$filename-$count
+while [[ -f $trash/$trashname ]]
+do
+	let count=count+1
+	trash_name=$filename-$count
+done
+
+ln $filename $trash_path/$trash_name
+rm $filename && echo $(realpath $filename) $trash_name >> $trashlog_path

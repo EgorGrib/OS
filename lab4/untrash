@@ -1,0 +1,53 @@
+#!/bin/bash
+
+trash_path=~/.trash
+trashlog_path=~/.trash.log
+filename=$1
+
+if [[ $# != 1 ]] 
+then
+	echo "The number of arguments should be 1."
+	exit 1
+fi
+
+if [[ ! -d $trash_path ]]
+then
+	echo "Not founded dir .trash"
+	exit 1
+fi
+
+if [[ ! -f $trashlog_path ]]
+then
+	echo "Not founded .trash.log file"
+	exit 1
+fi
+
+if [[ -z $(grep $1 $trash_path) ]]
+then
+	echo "not founded $1"
+	exit 1
+fi
+
+grep $filename $trashlog_path |
+while read filepath
+do
+	file=$(echo $filepath | cut -d " " -f 1)
+    	trashed=$(echo $filepath | cut -d " " -f 2)
+    	echo "Restore $trashed ? (y/n)"
+    	read answer
+    	if [[ $answer == "y" ]]
+	then
+        	dir=$(dirname $file) &&
+        	if [[ -d $dir ]]
+		then
+			$(ln $trash_path/$trashed $file)
+        	else
+			$(ln $trash_path/$trashed $HOME/$filename) &&
+            		echo "Restored in $HOME"
+        	fi &&
+        	rm $trash_path/$trashed && {
+            		sed -i "#$filepath#d" $trashlog_path
+            		echo "Restored $file"
+        	}
+    	fi
+done
