@@ -1,5 +1,5 @@
 #!/bin/bash
-rm data
+rm data2
 ./mem2.bash & pid=$!
 echo "TIME    MEM VIRT   RES SHR CPU FREE SWAP" >> data2
 while true
