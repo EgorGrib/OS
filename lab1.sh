@@ -81,7 +81,7 @@ calc|search|reverse|strlen|log)
 	exit $?
 	;;
 "exit")
-	[[ $# -eq 1 ]] && exit 0 || exit $2 2> /dev/null
+	[[ $# -eq 1 ]] && exit 0 || exit $2 2>/dev/null
 	;;
 help)
 	echo $(cat $path/help.txt)
